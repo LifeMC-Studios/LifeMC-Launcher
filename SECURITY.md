@@ -6,10 +6,10 @@ Only the latest version of LifeMC Launcher is supported by security updates.
 
 ## 🚨 Reporting a Vulnerability 
 
-If you discover security vulnerabilities related to mods included in LifeMC Launcher, please report them via one of the following channels:
+If you discover security vulnerabilities related to the LifeMC Launcher or its dependencies, please report them via one of the following channels:
 
 - 🔒 Open a new issue on our [GitHub Repository](https://github.com/LifeMC-Studios/LifeMC-Launcher/issues) labeled "Security" 
-- 🛡️ Alternatively, notify via email security@lifemcstudios.cloud and provide information about the mod and vulnerability.
+- 🛡️ Alternatively, notify via email at security@lifemcstudios.cloud and provide information about the security issue and vulnerability.
 
 ⏱️ Please provide as much information as possible about the vulnerability, including a clear description of the problem and steps to reproduce it. We will review and respond to all security issues related to the LifeMC Launcher or any of its included libraries and dependencies as soon as possible.
 
